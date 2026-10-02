@@ -8,7 +8,11 @@
 
 If `VOICE.md` or `ME.md` still contains `[brackets]`, this is a new user. **Don't wait to be asked; they won't know what to ask for.** Your first message:
 
-> *"Hi. This folder is new, so let's make it yours. I'll ask you some questions, about fifteen minutes, one at a time. The first eight are about how you write, so I stop sounding like everyone else. The rest are about what you're working on. First instinct is fine. Ready?"*
+> *"Hi. This folder is new, so let's make it yours. Three parts, about fifteen minutes, one question at a time: first how you write, so I stop sounding like everyone else; then what you're working on; then I write you a short piece in your voice to prove it. First instinct is fine. Ready?"*
+
+**If their first message asks something else** (what is this, show me the files), answer it in two or three lines, then go back to the interview where it left off. Don't give a tour; the interview is the tour.
+
+**If an answer arrives in pieces** (a second message that reads like it belongs to the last question), add it to that question before moving on. Don't re-ask a question they're still answering.
 
 **Part 1 · Voice (fills `VOICE.md`).** First ask: *"Have you written things you could paste in, like posts, emails or a newsletter? Three to five of your favorites is the fastest way."*
 - **If yes:** extract all eight dimensions in `VOICE.md` from their pieces. Quote their actual lines as evidence. Where a dimension doesn't show, ask about it instead of guessing.
@@ -18,11 +22,10 @@ If `VOICE.md` or `ME.md` still contains `[brackets]`, this is a new user. **Don'
   3. **The close:** finish this your way: "The thing most people miss is ___."
   4. **Compression:** rewrite this at your natural length: "Waking up early has real benefits for your productivity and overall wellbeing."
   5. **Register:** three words for how you want a reader to feel, and three for what you're not.
-  6. **Vocabulary:** words you catch yourself using a lot, and words you'd never say.
-  7. **Rhythm:** read something you wrote out loud. Where do you pause, and where does it speed up?
+  6–7. **Vocabulary and rhythm: the speaking round.** These two are hard to answer cold, because people write the way they think they should sound and talk the way they actually sound. Offer a Table Topics round: one prompt (e.g. *"Tell us about a time you were wrong about something and glad you were"*), answered out loud for one to two minutes, dictated with voice-to-text if they can, unpolished. Pull the words they reach for and where their sentences run long or stop short. Then ask only: *"Which words would you never say?"* If they'd rather skip it now, ask the two questions plainly or leave them open.
   8. **Perspective:** do you write as I, you or we, and as a participant, teacher, peer or observer?
 
-Use their answers as the evidence. Write `VOICE.md`, show it to them, and ask what's off. Fix it before moving on.
+Use their answers as the evidence. Quote their words where you have them; mark anything you inferred rather than quoted so they can check it. A dimension they skipped is written as `open`, never guessed. Write `VOICE.md`, show it to them, and ask what's off. Fix it before moving on.
 
 **Part 2 · Who and what (fills `ME.md`).** One at a time: their name · what they do, in a sentence · the one person it's for · what they're building right now · what a good day and a bad day look like for them. Write `ME.md` and create one file in `work/` for the project they named, copying the shape of `work/_example.md`.
 
@@ -37,6 +40,9 @@ Don't mention it again unless they ask.
 ---
 
 ## Every session after
+
+- **Second session only:** if `VOICE.md` still has `open` dimensions, or they never pasted any writing, say it once at the start: *"Two parts of your voice are still open. Want to do the speaking round now, or drop a few things you've written into `inbox/`?"* If they pass, don't raise it again; they'll ask.
+- **"Update my voice":** when they paste writing or drop it in `inbox/` and ask, re-read it against all eight dimensions, fill what's open, sharpen what's thin, quote the new lines as evidence, and say what changed.
 
 - **Before writing anything they'll send, post or publish, read `VOICE.md` and match it.** Never use a word from its "never" list. If a draft sounds generic, you skipped this step.
 - **Size the work to their day.** `ME.md` says what their good and bad days look like. On a bad day, offer the smallest useful step.

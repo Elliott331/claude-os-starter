@@ -14,7 +14,11 @@ cd my-os
 claude
 ```
 
-Say hello. It sees the folder is new and starts the interview on its own. About fifteen minutes. At the end it writes one short piece in your voice, so you can hear the difference before you've done anything else.
+Say hello. It sees the folder is new and starts the interview on its own. About fifteen minutes. Two of the voice questions work best as a short speaking round, answered out loud; voice-to-text is ideal. At the end it writes one short piece in your voice, so you can hear the difference before you've done anything else.
+
+*It's a plain folder, so it also opens as an [Obsidian](https://obsidian.md) vault if you'd like to read and edit your files there.*
+
+> **Keep your copy private.** After the interview this folder holds your voice, your projects and notes about your life. If you put your copy on GitHub, make that repository **private**.
 
 *Using Cursor, Codex or another agent? `AGENTS.md` points it at the same instructions. Rather not use a terminal at all? The same voice interview runs in the browser at [sovereigntystandard.com/voice-dna](https://sovereigntystandard.com/voice-dna).*
 

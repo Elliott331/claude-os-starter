@@ -40,7 +40,7 @@ Ask an AI to write for you and you get the average of everyone. Telling it "be w
 
 This is the base: the files your AI needs to know you, and the habit of logging each session so it builds up.
 
-When you want the whole thing, there's the **[Solo OS](https://sovereigntystandard.com/solo-os)**. Same idea, fully built: a guided build, level by level, through your audience, your offer and your content, a full folder structure for running a one-person business, and skills that draft and check your work in your voice. Your `VOICE.md` carries straight over; it uses the same eight dimensions.
+When you want the whole thing, there's the **[Solo OS](https://sovereigntystandard.com/solo-os)** ($97). Same idea, built out as a **10-level quest**: each level walks you through one piece of a one-person business, from your audience to your offer to your content, and a second quest for running it day to day opens once the first is done. It comes with the full folder structure and skills that draft and check your work in your voice. Your `VOICE.md` carries straight over; it uses the same eight dimensions.
 
 More at **[The Sovereignty Standard](https://sovereigntystandard.com/start)**: operating systems for people who'd rather own their tools than rent their attention.
 
